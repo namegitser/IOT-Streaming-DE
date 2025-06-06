@@ -1,0 +1,5 @@
+spark_ivy_cache_data/
+# Spark Ivy cache data directory
+environment/
+__pycache__/
+# Python cache directories
